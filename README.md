@@ -25,8 +25,7 @@ based on trust, popularity, and value.
 - AI:OpenAI API
 - Hosting: Vercel
 
-## API KEY
-API_KEY=AIzaSyDDvefxHYaEDN7CC1hHVQITW9fxswff8Hg
+
 
 ## 🧪 How to Run Locally
 ```bash
